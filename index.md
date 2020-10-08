@@ -53,7 +53,7 @@ Company Name : Arvand Pharmed
 
 Working side : Documentation expert
 
- # سوابق آموزشی
+# سوابق آموزشی
 
 # educational experience
 
