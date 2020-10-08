@@ -1,5 +1,5 @@
+<a href="https://8pic.ir/" target="_blank" title="آپلود عکس"><img src="https://8pic.ir/uploads/۲۰۲۰۱۰۰۸-۱۲۳۰۵۸.jpg" border="0" alt="آپلود عکس"></a>
 
-<a href="https://8pic.ir/" target="_blank" title="آپلود عکس"><img src="https://8pic.ir/uploads/۲۰۲۰۰۶۲۰-۲۰۲۴۲۴.jpg" border="0" alt="آپلود عکس"></a>
 
 
  # اطلاعات پایه 
