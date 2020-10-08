@@ -5,7 +5,7 @@
 
 # personal profile
 
-نام و نام خانوادگی : هانیه اعرابی<
+نام و نام خانوادگی : هانیه اعرابی-
 
 full name : haniyeh arabi
 
