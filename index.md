@@ -1,9 +1,9 @@
 <a href="https://8pic.ir/" target="_blank" title="آپلود عکس"><img src="https://8pic.ir/uploads/۲۰۲۰۱۰۰۸-۱۲۳۰۵۸.jpg" border="0" alt="آپلود عکس"></a>
 
 
-مشخصات فردی
+# مشخصات فردی 
 
-personal profile
+# personal profile
 
 نام و نام خانوادگی : هانیه اعرابی
 
@@ -25,9 +25,9 @@ hsniiiarabi@gmail.com : ایمیل
 
 Email : haniiiarabi@gmail.com
 
-سوابق تحصیلی
+# سوابق تحصیلی
 
-Education
+# Education
 
 مقطع تحصیلی : کارشناسی
 
@@ -41,9 +41,9 @@ Field of Study : Computer Engineering
 
 University name : payamnoor
 
-سوابق کاری
+# سوابق کاری
 
-Resume
+# Resume
 
 نام شرکت : زیست اروند فارمد
 
@@ -53,9 +53,9 @@ Company Name : Arvand Pharmed
 
 Working side : Documentation expert
 
-_سوابق اموزشی
-
-educational experience
+ # سوابق آموزشی
+ 
+# educational experience
 
 یادگیری نسبی اکسل،ورد و پاورپویت
 
