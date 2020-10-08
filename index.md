@@ -61,7 +61,17 @@ Working side : Documentation expert
 
 proximate learning of Excel WordPoint software
 
+# شبکه های اجتماعی 
 
+# Social Networks
+
+تلگرام : hani.arabi
+
+Telegram : hani.arabi
+
+اینستاگرام : haniiiarabi
+
+Instagram : haniiiarabi
 
 
 
